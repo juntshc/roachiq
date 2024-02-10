@@ -18,6 +18,7 @@ local function CreateMainFrame()
     frame.title:SetPoint("TOPLEFT", frame.TitleBg, "TOPLEFT", 5, -5)
     frame.title:SetText("RoachIQ")
 
+    -- TODO: Avoid affecting event listeners for other keys besides Escape (add else clause to pass thru everything else?)
     -- -- Add OnKeyDown script handler to quit when Escape key is pressed
     -- frame:SetScript("OnKeyDown", function(self, key)
     --     if key == "ESCAPE" then
