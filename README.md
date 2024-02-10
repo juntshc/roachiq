@@ -10,6 +10,7 @@ This Python application is designed for generating quizzes based on dungeon guid
 - **Answer Grading:** Utilizes OpenAI's GPT-4 model to grade user responses based on the content of the dungeon guides.
 - **Multiline Input Support:** Allows users to input answers spanning multiple lines for detailed responses.
 - **Diverse Dungeon Support:** Can fetch and parse dungeon guides from specified URLs, allowing for a wide range of quiz topics.
+- **WoW Classic Addon (In Development):** One day will allow users to take quizzes and share results with players around them.
 
 ## Prerequisites
 
