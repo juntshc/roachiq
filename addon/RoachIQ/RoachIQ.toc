@@ -1,0 +1,7 @@
+## Interface: 11501
+## Title: RoachIQ
+## Notes: Quiz users on dungeon strategies.
+## Author: Junts & Pastafari
+## Version: 0.0.0
+## SavedVariables: RoachIQ_SavedVariables
+RoachIQ.lua
